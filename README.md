@@ -10,3 +10,9 @@ Site links to Google Data Studio:
 2) Flight: https://datastudio.google.com/reporting/4e8b2a6b-f5cb-482e-9885-dbbcd325dfc6
 
 A glance at the analysis:
+
+
+![Zomato Dataset:GDS](Images/Screenshot_38.png)
+![Zomato Dataset:GDS](Images/Screenshot_39.png)
+
+
